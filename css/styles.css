@@ -1,8 +1,15 @@
-img {
-    float: left;
-  }
+.imageresize {
+  width: 400px;
+  height: 400px;
+}
+h1 {
+  text-align: center;
+}
 
-  .column {
-    width: 300px;
-    float: left;
-  }
+.container {
+  text-align: center;
+}
+
+html {
+  background-color: rgb(231, 172, 172);
+}
